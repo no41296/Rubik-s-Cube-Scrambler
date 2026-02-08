@@ -1,4 +1,4 @@
-I have loved solving Rubik's cubes for around ten years, specifically speed cubing with the 3x3. Often, while practising, I use a scramble generator and timer app. This MATLAB script randomly generates a scramble for a 3x3 Rubik's cube, and displays what the cube should look like to check it has been applied correctly. 
+I have loved solving Rubik's cubes for around ten years, specifically speed cubing with the 3x3. Often, while practising, I use a scramble generator and timer app. This MATLAB script randomly generates a scramble for a 3x3 Rubik's cube, and displays what the cube should look like to check the user has applied it correctly. 
 In the scramble, the following letters are used as notation for different moves on the cube. Much of it is self explanatory:
 
 R - Right Face
